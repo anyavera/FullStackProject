@@ -1,0 +1,22 @@
+{
+  "name": "fullstackproject",
+  "version": "1.0.0",
+  "description": "todo app inspired by localcoding.us",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anyavera/FullStackProject.git"
+  },
+  "keywords": [
+    "fullapp"
+  ],
+  "author": "anna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anyavera/FullStackProject/issues"
+  },
+  "homepage": "https://github.com/anyavera/FullStackProject#readme"
+}
