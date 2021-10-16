@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/anyavera/FullStackProject/issues"
   },
-  "homepage": "https://github.com/anyavera/FullStackProject#readme"
+  "homepage": "https://github.com/anyavera/FullStackProject#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
